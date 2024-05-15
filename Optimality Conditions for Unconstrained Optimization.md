@@ -23,3 +23,10 @@
 $$\begin{array}{ll}\textrm{minimize}& f (\textbf{x}) \\ \textrm{subject to} & \textbf{x} \in \mathbb{R}^n\end{array}$$
 则有如下的必要最优性条件：
 ![[Pasted image 20240515164648.png]]
+## Sufficient Conditions
+![[Pasted image 20240515164946.png]]
+注意和上一个定理，必要条件是Hessian矩阵半正定[[Positive-definite Matrix#Positive Semi-definite Matrix]]，充分条件是Hessian矩阵正定[[Positive-definite Matrix#Positive-definite Matrix]]，因而可以推出strictly local minimizer
+![[Pasted image 20240515165115.png]]
+若 $f$ 是凸函数，则条件简化
+![[Pasted image 20240515165303.png]]
+Hessian半正定，则为local minimizer[[Global and Local Optimal Solution#Global and Local Optimizers]]
