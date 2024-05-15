@@ -34,3 +34,5 @@
 ## Second-Order Sufficient Conditions
 ![[Pasted image 20240515174330.png]]
 ## Sensitivity: The Meaning of the Lagrangian Multipliers
+![[Pasted image 20240515180702.png]]![[Pasted image 20240515180714.png]]
+即 $\bar{y}_i(\textbf{c})$ 是对边界限制值的影子价格
