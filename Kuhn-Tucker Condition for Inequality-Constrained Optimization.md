@@ -35,3 +35,6 @@ local minimizer + CQ -> KKT
 ### Slater CQ for (CP)
 ![[Pasted image 20240516132010.png]]
 ![[Pasted image 20240516132019.png]]
+## Exercises
+![[Pasted image 20240517143153.png]]
+![[Pasted image 20240517143208.png]]
