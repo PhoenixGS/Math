@@ -25,5 +25,6 @@ We study algorithms that produce iterates according to well determined rules–D
 [[Steepest Descent Method]]
 [[Newton Method]]
 [[The Barzilai-Borwein Method]]
+![[Pasted image 20240525185459.png]]
 [[Conjugate Direction Method]]
 [[Quasi-Newton Method]]
