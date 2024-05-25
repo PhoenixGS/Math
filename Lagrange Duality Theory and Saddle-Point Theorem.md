@@ -22,3 +22,4 @@ Slater Constraint Qualification
 ## Remark
 ![[Pasted image 20240517145024.png]]
 ![[Pasted image 20240517145036.png]]
+## Application
