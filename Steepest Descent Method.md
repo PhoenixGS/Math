@@ -1,7 +1,7 @@
 ![[Pasted image 20240524120326.png]]
 ## Convergence of SDM
 ![[Pasted image 20240524123724.png]]
-在目标函数是二次型函数时，SDM是R-线性收敛的
+在目标函数是正定二次型函数时，SDM是R-线性收敛的
 ## Kantorovich Inequality
 ![[Pasted image 20240524124541.png]]
 ## Convergence analysis—quadratic form
