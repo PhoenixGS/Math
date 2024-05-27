@@ -10,4 +10,4 @@
 ## Conjugate Gradient Theorem
 ![[Pasted image 20240527001509.png]]
 ## Fletcher-Reeves Conjugate Gradient Method
-![[Pasted image 20240527001614.png]]
+![[Pasted image 20240527001614.png]]           
