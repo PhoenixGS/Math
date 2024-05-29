@@ -5,9 +5,32 @@
 	* P (Performance)  
 	* E (Experience)
 * 机器学习系统
-	* ![[Pasted image 20240527170340.png]]
+	![[Pasted image 20240527170340.png]]
 * 错误率与一致学习器
-	* ![[Pasted image 20240527170657.png]]
+	![[Pasted image 20240527170657.png]]
+* 偏差与方差
+	![[Pasted image 20240529214042.png]]
 ## Algorithms 
+* 有监督和无监督学习
+	![[Pasted image 20240529214320.png]]
+### 有监督学习
+[[Linear Regression]]
+[[Decision Tree]]
+
 ## Experiments
 ## Theories
+
+
+
+
+
+## 评价指标
+### 回归任务
+![[Pasted image 20240529223959.png]]
+### 分类任务
+![[Pasted image 20240529224028.png]]
+![[Pasted image 20240529224036.png]]
+[[Receiver Operating Characteristic]]
+![[Pasted image 20240529224603.png]]
+
+参考：张敏老师的课件
