@@ -16,6 +16,8 @@
 ### 有监督学习
 [[Linear Regression]]
 [[Decision Tree]]
+[[Bayesian Inference]]
+[[K-Nearest Neighbor]]
 
 ## Experiments
 ## Theories
