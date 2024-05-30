@@ -18,6 +18,9 @@
 [[Decision Tree]]
 [[Bayesian Inference]]
 [[K-Nearest Neighbor]]
+[[Locally Weighted Regression]]
+### 无监督学习
+
 
 ## Experiments
 ## Theories

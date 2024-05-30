@@ -28,3 +28,5 @@
 
 ## 基于实例的学习器的四个要素总结
 ![[Pasted image 20240530170942.png]]
+![[Pasted image 20240530172513.png]]![[Pasted image 20240530172519.png]]
+![[Pasted image 20240530172530.png]]
