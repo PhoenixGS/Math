@@ -32,7 +32,10 @@
 [[Agglomerative Hierarchical Clustering]]
 [[Divisive Hierarchical Clustering]]
 ## Experiments
+[[Overfitting]]
+[[Cross-validation]]
 ## Theories
+[[Hypothesis Evaluation]]
 
 
 
