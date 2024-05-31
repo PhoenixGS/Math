@@ -14,14 +14,18 @@
 * 有监督和无监督学习
 	![[Pasted image 20240529214320.png]]
 ### 有监督学习
+![[Pasted image 20240531115242.png]]
 [[Linear Regression]]
 [[Decision Tree]]
 [[Bayesian Inference]]
 [[K-Nearest Neighbor]]
 [[Locally Weighted Regression]]
 ### 无监督学习
-
-
+![[Pasted image 20240531115206.png]]
+![[Pasted image 20240531115218.png]]
+![[Pasted image 20240531115251.png]]
+### 半监督学习
+![[Pasted image 20240531115308.png]]
 ## Experiments
 ## Theories
 
