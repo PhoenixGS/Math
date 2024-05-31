@@ -24,13 +24,28 @@
 ![[Pasted image 20240531115206.png]]
 ![[Pasted image 20240531115218.png]]
 ![[Pasted image 20240531115251.png]]
-### 半监督学习
-![[Pasted image 20240531115308.png]]
 [[K-means Clustering]]
 [[K-medoids Clustering]]
 [[Clustering LARge Applications]]
 [[Agglomerative Hierarchical Clustering]]
 [[Divisive Hierarchical Clustering]]
+### 半监督学习
+![[Pasted image 20240531115308.png]]
+### 集成学习
+![[Pasted image 20240531201601.png]]
+![[Pasted image 20240531201627.png]]![[Pasted image 20240531201647.png]]
+#### 学习器
+![[Pasted image 20240531201709.png]]
+我们能否把弱学习器增强成一个强学习器?
+#### 基本想法
+![[Pasted image 20240531201749.png]]
+#### 集成策略
+![[Pasted image 20240531201804.png]]
+#### 算法
+[[Weighted Majority Algorithm]]
+[[Bootstrap Aggregating]]
+[[Boosting]]
+[[Gradient Boosting Decision Tree]]
 ## Experiments
 [[Overfitting]]
 [[Cross-validation]]
