@@ -46,6 +46,10 @@
 [[Bootstrap Aggregating]]
 [[Boosting]]
 [[Gradient Boosting Decision Tree]]
+#### Bagging vs. Boosting
+![[Pasted image 20240531232536.png]]![[Pasted image 20240531232554.png]]
+#### 重新调权 vs. 重新采样
+![[Pasted image 20240531232622.png]]
 ## Experiments
 [[Overfitting]]
 [[Cross-validation]]
