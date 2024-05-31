@@ -14,5 +14,14 @@
 ![[Pasted image 20240531132536.png]]
 ![[Pasted image 20240531132544.png]]
 ![[Pasted image 20240531132552.png]]
-## [[K-means Clustering]]
-## [[K-medoids Clustering]]
+## 非层次聚类
+### [[K-means Clustering]]
+### [[K-medoids Clustering]]
+### [[Clustering LARge Applications]]
+## 层次聚类
+[[Agglomerative Hierarchical Clustering]]
+[[Divisive Hierarchical Clustering]]
+### 比较
+![[Pasted image 20240531182102.png]]
+### 层次聚类的相关讨论
+![[Pasted image 20240531182151.png]]
