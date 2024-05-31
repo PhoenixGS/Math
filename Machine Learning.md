@@ -50,6 +50,8 @@
 ![[Pasted image 20240531232536.png]]![[Pasted image 20240531232554.png]]
 #### 重新调权 vs. 重新采样
 ![[Pasted image 20240531232622.png]]
+### 缺失数据的参数估计问题 Parameter estimation with missing data
+[[Expectation Maximization Algorithm]]
 ## Experiments
 [[Overfitting]]
 [[Cross-validation]]
