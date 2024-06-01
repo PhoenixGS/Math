@@ -1,0 +1,2 @@
+## PAC可学习性(PAC learnable)
+![[Pasted image 20240601165135.png]]![[Pasted image 20240601165147.png]]![[Pasted image 20240601165203.png]]![[Pasted image 20240601165354.png]]![[Pasted image 20240601165428.png]]![[Pasted image 20240601165544.png]]

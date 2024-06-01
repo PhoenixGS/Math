@@ -1,7 +1,7 @@
 即Bagging
 只有一个弱学习器
 ![[Pasted image 20240531220707.png]]
-## Bootstrap sampling
+## Bootstrap Sampling
 ![[Pasted image 20240531220730.png]]
 ## Bagging 算法
 ![[Pasted image 20240531220819.png]]

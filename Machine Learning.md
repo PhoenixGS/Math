@@ -63,10 +63,11 @@
 ##### LSTM
 ![[Pasted image 20240601160927.png]]![[Pasted image 20240601160938.png]]
 缺点: 参数太多，可能导致过拟合
-
 ## Experiments
 [[Overfitting]]
 [[Cross-validation]]
+[[Bootstrap Aggregating#Bootstrap Sampling]]
+![[Pasted image 20240601161623.png]]
 ## Theories
 [[Hypothesis Evaluation]]
 [[Probably Approximately Correct Learning]]
