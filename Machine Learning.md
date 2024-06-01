@@ -71,7 +71,8 @@
 ## Theories
 [[Hypothesis Evaluation]]
 [[Probably Approximately Correct Learning]]
-
+[[Sample Complexity]]
+[[Sample Complexity#Vapnik-Chervonenkis Dimension]]
 
 
 
