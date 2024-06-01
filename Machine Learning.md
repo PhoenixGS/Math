@@ -52,12 +52,24 @@
 ![[Pasted image 20240531232622.png]]
 ### 缺失数据的参数估计问题 Parameter estimation with missing data
 [[Expectation Maximization Algorithm]]
+### 序列学习方法 Sequential Models
+[[Markov Model]]
+[[Hidden Markov Model]]
+### 深度学习与大语言模型
+![[Pasted image 20240601154112.png]]
+#### 神经网络序列模型 Neural Sequential Models
+##### RNN
+![[Pasted image 20240601160843.png]]
+##### LSTM
+![[Pasted image 20240601160927.png]]![[Pasted image 20240601160938.png]]
+缺点: 参数太多，可能导致过拟合
+
 ## Experiments
 [[Overfitting]]
 [[Cross-validation]]
 ## Theories
 [[Hypothesis Evaluation]]
-
+[[Probably Approximately Correct Learning]]
 
 
 
