@@ -1,0 +1,2 @@
+[[Penalty Method]]
+[[Barrier Method]]
