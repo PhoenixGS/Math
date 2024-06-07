@@ -21,3 +21,6 @@
 ![[Pasted image 20240527204551.png]]
 ![[Pasted image 20240527204559.png]]
 ## [[Newton-Cotes formula]]
+## [[Composite Integration Rule]]
+## [[Richardson Extrapolation Method]]
+## [[Gaussian Quadrature Formula]]
