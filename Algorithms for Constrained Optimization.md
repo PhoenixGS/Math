@@ -2,3 +2,10 @@
 [[Barrier Method]]
 [[Augment Lagrangian Method]]
 [[The Alternating Direction Method with Multipliers]]
+### Primal Methods
+[[Feasible Direction Methods]]
+[[Frank-Wolfe Method]]
+[[Simplified Zoutendijk Method]]
+[[Gradient Projection Method]]
+[[Active Set Method]]
+[[Sequential Quadratic Programming Method]]
