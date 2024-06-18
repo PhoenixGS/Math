@@ -5,3 +5,5 @@
 ![[Pasted image 20240525184913.png]]
 ![[Pasted image 20240525184942.png]]
 ![[Pasted image 20240525184949.png]]
+与[[Steepest Descent Method]]在QP上比较收敛
+![[Pasted image 20240525185459.png]]
