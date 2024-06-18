@@ -86,3 +86,6 @@
 ![[Pasted image 20240529224603.png]]
 
 参考：张敏老师的课件
+
+
+[[Support Vector Machine]]
