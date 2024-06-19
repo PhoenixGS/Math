@@ -42,3 +42,19 @@
 ![[Pasted image 20240530001920.png]]
 ### 考虑属性的代价
 ![[Pasted image 20240530002004.png]]
+
+（from 人智导）
+### ID3
+![[Pasted image 20240619155902.png]]
+![[Pasted image 20240619155910.png]]
+### C4.5
+![[Pasted image 20240619160136.png]]
+![[Pasted image 20240619160146.png]]
+### 剪枝
+![[Pasted image 20240619160240.png]]
+![[Pasted image 20240619160316.png]]
+![[Pasted image 20240619160332.png]]![[Pasted image 20240619160348.png]]
+$C(T)$ 为所有叶节点上熵的和，即表示对训练数据的预测误差， $a|T|$ 为惩罚项，希望模型不要过于复杂
+![[Pasted image 20240619160455.png]]![[Pasted image 20240619160549.png]]![[Pasted image 20240619160603.png]]
+### 随机森林
+![[Pasted image 20240619160620.png]]
