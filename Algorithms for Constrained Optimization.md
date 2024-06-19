@@ -8,6 +8,11 @@ Penalty和Barrier方法是用无约束问题近似约束优化问题的方法。
 [[Augment Lagrangian Method]]
 [[The Alternating Direction Method with Multipliers]]
 ### Primal Methods
+![[Pasted image 20240619121058.png]]
+#### Significant Advantages
+![[Pasted image 20240619121117.png]]
+#### Disadvantages
+![[Pasted image 20240619121129.png]]
 [[Feasible Direction Methods]]
 [[Frank-Wolfe Method]]
 [[Simplified Zoutendijk Method]]

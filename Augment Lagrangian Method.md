@@ -1,6 +1,7 @@
 ![[Pasted image 20240605145311.png]]
 与[[Kuhn-Tucker Condition for Equality-Constrained Optimization#The Lagrange Theorem]]结合
 解决等式以及不等式约束
+首先考虑等式约束
 ### Remark
 ![[Pasted image 20240605145333.png]]
 ## Procedure of Augment Lagrangian Method
